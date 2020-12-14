@@ -1,0 +1,22 @@
+.sprite {
+    background-image: url(sprite.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+#img {
+    width: 1429px;
+    height: 1313px;
+    background-position: 0px 0px;
+}#img1 {
+    width: 1276px;
+    height: 1118px;
+    background-position: 0px 1314px;
+}#img2 {
+    width: 1429px;
+    height: 1637px;
+    background-position: 0px 2433px;
+}#img3 {
+    width: 1424px;
+    height: 1541px;
+    background-position: 0px 4071px;
+}
